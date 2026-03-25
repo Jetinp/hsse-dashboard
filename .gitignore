@@ -4,3 +4,4 @@ dist/
 *.local
 testUI.cjs
 testUI.js
+.env
